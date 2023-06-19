@@ -19,7 +19,7 @@ url_content = get_content(url)
 for text in url_content:
     print(text)
 
-print (len(url_content))
+# print (len(url_content))
 # documentation = "https://www.crummy.com/software/BeautifulSoup/bs4/doc/#quick-start"
 
 
