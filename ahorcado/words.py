@@ -1,3 +1,5 @@
+#Lista de palabras empleadas para jugar, se le pueden añadir muchas mas
+
 words = ["abogado", "aceituna", "acuario", "aeropuerto", "aguja", "ajedrez", "ají", "ala", "alambre", "albañil", "alcachofa", "alcohol", "alfombra", "algodón", "alimentador",
 "almohada", "almuerzo", "alpaca", "altar", "alto", "aluminio", "amapola", "ambulancia", "amigo", "ancla", "andamio", "andarivel", "anillo","anís","anotador","antena","antifaz","antojo",
 "aparato","apio","aplaudir","aprender","aprobación","apuntador","araña","arcoiris","arena","argolla",

@@ -1,3 +1,4 @@
+#Etapas del juego segun las fallas
 steps = {
         0: """
                 ___________
